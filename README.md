@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) Adyen Checkout Utility Service MSP Connector
+# ![LOGO](logo.png) Adyen Checkout Utility Service **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the Adyen Checkout Utility Service API (version 1).
+A generated **flow**ground connector for the Adyen Checkout Utility Service API (version 1).
 
 Generated from: https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json<br/>
-Generated at: 2019-05-07T11:15:12+03:00
+Generated at: 2019-05-07T17:34:47+03:00
 
 ## API Description
 
@@ -41,7 +41,7 @@ This API does not require authorization.
 
 ## License
 
-flowground :- Telekom iPaaS / adyen-com-checkout-utility-service-connector<br/>
+**flow**ground :- Telekom iPaaS / adyen-com-checkout-utility-service-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
