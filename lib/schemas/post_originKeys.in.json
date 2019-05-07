@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "properties": {
+        "requestBody": {
+            "properties": {
+                "originDomains": {
+                    "description": "The list of origin domains, for which origin keys are requested.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "originDomains"
+            ],
+            "type": "object"
+        }
+    }
+}
